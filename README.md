@@ -21,10 +21,10 @@ Proyecto web moderno y responsive diseñado con HTML5 y CSS3. Una interfaz limpi
 ## Instalación
 
 1. **Clonar el repositorio:**
-   ```bash
+   ``bash
    git clone https://github.com/tu-usuario/MY-primer-repositorio.git
    cd MY-primer-repositorio
-   ```
+   ``
 
 2. **Abrir el proyecto:**
    - Abrir `index.html` directamente en el navegador
@@ -47,13 +47,13 @@ Luego accede a `http://localhost:8000`
 
 ## Estructura del Proyecto
 
-```
+``
 MY-primer-repositorio/
 ├── index.html       # Archivo principal HTML
 ├── styles.css       # Estilos CSS
 ├── README.md        # Este archivo
 └── assets/          # (Opcional) Carpeta para imágenes y recursos
-```
+``
 
 ## Uso
 
